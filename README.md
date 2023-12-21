@@ -1,4 +1,4 @@
-# TP1_Programmation_Systeme
+# TP1_Synthese
 
 Pendant ce travail pratique, nous avons appris à concevoir et à mettre en place un petit interpréteur de commandes que nous avons appelé "enseash". 
 L'objectif principal était de créer un shell minimal capable de lancer des programmes tout en affichant les codes de retour et les temps d'exécution. Voici les sujets abordés et les compétences acquises :
