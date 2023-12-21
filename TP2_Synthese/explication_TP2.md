@@ -1,4 +1,5 @@
 TP2 Synthèse
+-
 
 L'objectif principal était de créer un client TFTP pour permettre l'échange de fichiers en utilisant le protocole TFTP (Trivial File Transfer Protocol).
 C'est est un protocole de transfert de fichiers simple, utilisé pour le transfert de fichiers entre un client et un serveur sur un réseau. 
